@@ -1,3 +1,7 @@
+---
+title: Säännöt
+---
+
 ## MARTIN KOULUN VANHEMPAINYHDISTYKSEN SÄÄNNÖT
 ### 1§
 Martin koulun vanhemmat ry toimii Luostarivuoren koulun Martin yksikön yhteydessä. Kotipaikka on Turku. 
