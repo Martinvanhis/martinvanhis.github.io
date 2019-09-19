@@ -1,5 +1,6 @@
 ---
 title: Säännöt
+layout: page
 ---
 
 ## MARTIN KOULUN VANHEMPAINYHDISTYKSEN SÄÄNNÖT
