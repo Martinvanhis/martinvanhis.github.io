@@ -1,6 +1,7 @@
 ---
 title: Säännöt
 nav: true
+layout: page
 ---
 
 ## MARTIN KOULUN VANHEMPAINYHDISTYKSEN SÄÄNNÖT
