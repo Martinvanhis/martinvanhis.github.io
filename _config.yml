@@ -37,6 +37,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Twitter-tunnus, jos joskus hankitaan.
 #twitter_username: jekyllrb
+facebook_username: Turun-Martin-koulun-vanhemmat-ry-253057958181097
 # Github-käyttäjänimi
 github_username:  Martinvanhis
 

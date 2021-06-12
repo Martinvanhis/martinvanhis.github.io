@@ -4,10 +4,9 @@
 
 layout: home
 author: pesasa
+title: Martin koulun vanhemmat ry
 ---
 
-Martin koulun vanhemmat ry
-===========================
 
 Yhdistys toimii [Luostarivuoren koulun Martin yksikön][Martin koulu] yhteydessä [Turussa][Turku].
 
