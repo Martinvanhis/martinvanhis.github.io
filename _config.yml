@@ -13,6 +13,7 @@ description: >- # this means to ignore newlines until "header_pages:"
 
 # Tässä lueteltu ylävalikkoon tulevat sivut järjestyksessä
 header_pages:
+    - index.md
     - yhdistyksestä.md
     - toiminta.md
     - johtokunta.md
