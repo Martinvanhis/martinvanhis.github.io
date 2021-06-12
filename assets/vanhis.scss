@@ -1,0 +1,104 @@
+/*
+ Vanhis customizations for mimima scss
+ */
+
+header.site-header {
+    background: url("/kuvat/martin_koulu.jpg") center center;
+    background-size: cover;
+    height: 200px;
+}
+header.site-header .wrapper {
+    background-color: rgba(255,255,255,0.7);
+}
+.post-content h3 {
+    margin-bottom: 0;
+    margin-top: 0.8em;
+}
+.post-content .vanhis-position {
+    font-size: 110%;
+    font-style: italic;
+}
+
+.pagecontent img.center-image,
+.post-content img.center-image {
+    display: block;
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto;
+    clear: both;
+}
+.pagecontent img.right-image,
+.post-content img.right-image {
+    display: block;
+    max-width: 30%;
+    height: auto;
+    margin: 0 -5em 0.5em 0.5em;
+    float: right;
+    clear: right;
+}
+.pagecontent img.left-image,
+.post-content img.left-image {
+    display: block;
+    max-width: 30%;
+    height: auto;
+    margin: 0 0.5em 0.5em -5em;
+    float: left;
+    clear: left;
+}
+
+.pagecontent figure.center-image,
+.post-content figure.center-image {
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+}
+.pagecontent figure.center-image img,
+.post-content figure.center-image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.pagecontent figure.right-image,
+.post-content figure.right-image {
+    display: block;
+    float: right;
+    max-width: 30%;
+    margin: 0 -5em 0.5em 0.5em;
+    clear: right;
+}
+.pagecontent figure.right-image img,
+.post-content figure.right-image img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.pagecontent figure.left-image,
+.post-content figure.left-image {
+    display: block;
+    float: left;
+    max-width: 30%;
+    margin: 0 0.5em 0.5em -5em;
+    clear: left;
+}
+.pagecontent figure.left-image img,
+.post-content figure.left-image img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+@include media-query($on-laptop) {
+    .pagecontent img.right-image,
+    .pagecontent img.left-image,
+    .pagecontent figure.right-image,
+    .pagecontent figure.left-image,
+    .post-content img.right-image,
+    .post-content img.left-image,
+    .post-content figure.right-image,
+    .post-content figure.left-image {
+        float: none;
+        max-width: 80%;
+        margin: 0 auto;
+    }
+}

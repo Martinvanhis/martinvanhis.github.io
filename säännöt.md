@@ -1,12 +1,12 @@
 ---
-title: Säännöt
-nav: true
 layout: page
+title: Yhdistyksen säännöt
+date: 2021-02-14 19:14:00 +0200
+categories: jekyll yhdistys
 ---
-
 ## MARTIN KOULUN VANHEMPAINYHDISTYKSEN SÄÄNNÖT
 ### 1§
-Martin koulun vanhemmat ry toimii Luostarivuoren koulun Martin yksikön yhteydessä. Kotipaikka on Turku. 
+Martin koulun vanhemmat ry toimii Luostarivuoren koulun Martin yksikön yhteydessä. Kotipaikka on Turku.
 
 ### 2§
 Yhdistyksen tarkoituksena on
