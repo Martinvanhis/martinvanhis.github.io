@@ -11,6 +11,8 @@ alttitle: Etusivu
 
 Yhdistys toimii [Luostarivuoren koulun Martin yksikön][Martin koulu] yhteydessä [Turussa][Turku].
 
+{% include yt.html id="CzhhkCga9ug" %}
+
 Yhdistyksen tarkoituksena on
 ------------------------------
 
