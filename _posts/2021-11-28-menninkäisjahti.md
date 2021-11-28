@@ -5,10 +5,6 @@ date:   2021-11-28 19:30:00 +0200
 tags:   tapahtuma marrasmartti menninkäisjahti
 ---
 
-{% include image.html src="marttijahti-kuvakaappaus1.png" title="Sumu Aallokko" class="right-image" %}
-{% include image.html src="marttijahti-kuvakaappaus2.png" title="Masi mansikkainen" class="right-image" %}
-{% include image.html src="marttijahti-kuvakaappaus3.png" title="Alli Hiipiväinen" class="right-image" %}
-
 
 Vanhis järjesti jo toisen kerran syksyisen heijastintapahtuman, **Martin Menninkäisjahdin**, ja tapahtuma oli viime kerran tapaan menestys!
 
@@ -16,10 +12,16 @@ Tapahtuma alkoi noin kello 17, kun Urheilupuistossa alkoi jo hämärtää. Urhei
 
 Kussakin löydetyssä heijastimessa oli lyhyt koodi, jonka pelisivulle syöttämällä sai merkittyä löytämänsä menninkäisen itselleen. Jokaisesta löydetystä menninkäisestä sai tililleen 1–3 pistettä.
 
+{% include image.html src="marttijahti-kuvakaappaus1.png" title="Sumu Aallokko" class="right-image" %}
+
 {% include image.html src="marttijahti-herkut.jpg" title="Herkkuja" %}
 Tapahtuman ajan vanhis piti lähtöpaikalla myyntipistettä, josta voi ostaa pientä syötävää ja juotavaa. Vanhis antaakin **erityiskiitoksen *[K-Market Kookokselle][Kookos]***, joka lahjoitti pillimehuja, jalkapallodonitseja sekä monenlaista muuta herkkua myytäväksi ja palkinnoiksi.
 
+{% include image.html src="marttijahti-kuvakaappaus2.png" title="Masi mansikkainen" class="right-image" %}
+
 {% include image.html src="marttijahti-Kookos.jpg" title="Jookos Kookos" %}
+
+{% include image.html src="marttijahti-kuvakaappaus3.png" title="Alli Hiipiväinen" class="right-image" %}
 
 **Suuret kiitokset menevät myös *[Lounais-Suomen poliisilaitokselle][lspoliisi]* sekä *[Varsinais-Suomen pelastuslaitokselle][vspela]***, joilta saimme lapsille jaettaviksi heijastimia.
 
