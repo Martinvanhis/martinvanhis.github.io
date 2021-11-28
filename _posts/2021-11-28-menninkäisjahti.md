@@ -31,7 +31,7 @@ Sää oli marraskuisen kirpeä ja ilta oli pimeä, mutta lapsilla vaikutti oleva
 
 {% include image.html src="marttijahti-lyhdyt.jpg" title="Lyhdyt" %}
 
-Kiitos kaikille osallistuneille! Toivotamme kaikki vanhemmat myös mukaan vanhiksen toimintaan. Tekojen ei tarvitse olla suuria, mutta yhdessä saadaan piristettyä lasten arkea hieman.
+Kiitos kaikille osallistuneille! Toivotamme kaikki vanhemmat myös mukaan vanhiksen toimintaan. Tekojen ei tarvitse olla suuria, mutta yhdessä saamme tuotettua pientä piristystä lastemme arkeen.
 
 Jos heräsi kiinnostus osallistua vanhiksen toimintaan, ota yhteyttä sähköpostiosoitteeseemme: *[martinkarkkisade@gmail.com][email]*.
 
