@@ -6,7 +6,7 @@ tags:   kevät kevätseuranta
 ---
 
 
-Kevät saapuu ja aurinko paistaa. Tänään (20.3.) on kevätpäivän tasaus, eli tämän päivän jälkeen vuorokaudessa on enemmän valoissaa aikaa kuin pimeää.
+Kevät saapuu ja aurinko paistaa. Tänään (20.3.) on kevätpäivän tasaus, eli tämän päivän jälkeen vuorokaudessa on enemmän valoisaa aikaa kuin pimeää.
 
 Nyt onkin hyvä hetki aloittaa kevään merkkien seuraaminen luonnossa. Luontoliiton kevätseurannassa on lapsille tarjolla [**Kevätseurantabingo**, ][bingo] eli tulostettava lomake, johon voi merkitä huomaamansa kevään merkit. Kortin voi tulostaa paperille tai ottaa siitä kuvakaappauksen puhelimeen ja merkitä havainnot jollain kuvankäsittelysovelluksella.
 
