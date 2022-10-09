@@ -1,5 +1,5 @@
 ---
 name: Hanna-Leena
-position: jäsen
+position: varapuheenjohtaja
 ---
 Hanna-Leena on ollut mukana johtokunnassa syksystä 2020 alkaen.
