@@ -1,5 +1,5 @@
 ---
-name: Taina
+name: Tania
 position: rahastonhoitaja
 ---
-Taina on ollut mukana johtokunnassa syksystä xxxx alkaen.
+Tania on ollut mukana johtokunnassa syksystä 2022 alkaen.
