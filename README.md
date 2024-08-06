@@ -14,4 +14,4 @@ Tämä on Turun Martin koulun vanhempainyhdistyksen [webbisivusto](https://marti
 Muut tiedostot ja kansiot ovat sivuston rakenteen ja ulkoasun asetuksia, joihin
 ei tarvitse normaalisti koskea.
 
-Lisää tarkempia ohjeita sivuston muokkaamiseen tulee [Wiki](https://github.com/Martinvanhis/martinvanhis.github.io/wiki)-sivuille.
+Lisää tarkempia ohjeita sivuston muokkaamiseen löytyy [Wiki-sivuilta](https://github.com/Martinvanhis/martinvanhis.github.io/wiki).
